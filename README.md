@@ -22,7 +22,7 @@ Check out our website:<br>
 - [Matias Riosa](https://github.com/m-riosa)
 
 ## My Part: Lead API
-This application has basic functioning of searching, deleting, adding, and updating. I worked on all these basic functions for the webite and mobile app using _JavaScript_ and _MongoDB_ commands to connect to our database. All APIs can be found in `server.js` and its documentation was done on SwaggerHub for organization and to make it easier for frontend to determine the input and return values of each API. I also used unit testing in Jest to test a few APIs, as a requirnment for the project, and they all successfully passed. The code to this can be found in `tests\server.test.js`.
+This application has basic functioning of searching, deleting, adding, and updating. I worked on all these basic functions for the webite and mobile app using _JavaScript_ and _MongoDB_ commands to connect to our database. All APIs can be found in `server.js` and its documentation was done on SwaggerHub for organization and to make it easier for frontend to determine the input and return values of each API. I also used unit testing in _Jest_ to test a few APIs, as a requirnment for the project, and they all successfully passed. The code to this can be found in `tests\server.test.js`.
 
 ## Api Documentation:
 This documentation was constantly updated as I was building the APIs.  
