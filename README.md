@@ -25,4 +25,5 @@ Check out our website:<br>
 This application has basic functioning of searching, deleting, adding, and updating. I worked on all these basic functions for the webite and mobile app using _JavaScript_ and _MongoDB_ commands to connect to our database. All APIs can be found in `server.js` and its documentation was done on SwaggerHub for organization and to make it easier for frontend to determine the input and return values of each API.
 
 ## Api Documentation:
+This documentation was constantly updated as I was building the APIs.  
 [SwaggerHub](https://app.swaggerhub.com/apis/KEGRIMES02/LargeProject/1.0.0#/)
