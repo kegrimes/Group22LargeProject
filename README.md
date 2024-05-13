@@ -23,7 +23,7 @@ Check out our website:<br>
 Park Pal is a web application that allows for users to track ride waiting times while going through a specific theme park. There are several parks a user can add on thier account to see its ride wait times. Not only that, but users can also create a trip where they can add certain rides they want to ride during that trip.
 
 ## My Part: Lead API
-This application has basic functioning of searching, deleting, adding, and updating. I worked on all these basic functions for the webite and mobile app. All APIs can be found in `server.js` and its documentation was done on SwaggerHub for organization and to make it easier for frontend to determine the input and return values of each API.
+This application has basic functioning of searching, deleting, adding, and updating. I worked on all these basic functions for the webite and mobile app using _JavaScript_ and _MongoDB_ commands to connect to our database. All APIs can be found in `server.js` and its documentation was done on SwaggerHub for organization and to make it easier for frontend to determine the input and return values of each API.
 
 ## Api Documentation:
 [SwaggerHub](https://app.swaggerhub.com/apis/KEGRIMES02/LargeProject/1.0.0#/)
