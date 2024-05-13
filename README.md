@@ -1,5 +1,5 @@
 # Group22LargeProjectPOOSD
-The Git for Group 22's Large project for COP4331C (a.k.a. POOSD)<br>
+Group 22's Large project for COP4331C, Processes for Object-Oriented Software Development
 
 A full-stack project made for class.<br>
 Check out our website:<br>
@@ -8,27 +8,22 @@ Check out our website:<br>
 ## Contributors
 ### Project Manager / Mobile
 - [Tristen Robinson](https://github.com/tristen-robinson-ucf)
+### Lead API
+- [Katelyn Grimes](https://github.com/kegrimes)
 ### API
 - [Batman Yousuf](https://github.com/shinobi-404)
 ### Database
 - [Asher Watkins](https://github.com/asher12353)
 ### Front End
 - [Daniela Cadena](https://github.com/danicadena)
-### API
-- [Katelyn Grimes](https://github.com/kegrimes)
 ### Front End / Mobile
 - [Matias Riosa](https://github.com/m-riosa)
 
-## For Team members
-This information was directly taken from the small project git's README.md as that is what I am modeling this repository off of.
-### When contributing
-- The dev branch should be used where code is being tested and constantly worked on. It will often be ahead of the main branch
-- The main branch should be used as the last "stable" version of the code
-- For each team please make a seperate branch from the dev branch to start working on your portion of the project
-- When working on a feature it sometimes helps to pull from your normal team branch and label the branch as what you're working on. IE: If API wants to work on a feature they would create a branch from 'API' named 'feature1'. Not necessary but organized. You can delete the branch safely when the feature is done being worked on.
-- When merging from one of the team branches to dev branch, it should be done through a Pull Request. IE: if merging from 'frontend' to 'dev'
-- Other branches are up to you if you want to handle with pull requests.
-- dev to main has to be approved by a team member other than the one who made the Pull Request
+## Park Pal:
+Park Pal is a web application that allows for users to track ride waiting times while going through a specific theme park. There are several parks a user can add on thier account to see its ride wait times. Not only that, but users can also create a trip where they can add certain rides they want to ride during that trip.
 
-## Api Documentation
-See [this file](API.md)
+## My Part: Lead API
+This application has basic functioning of searching, deleting, adding, and updating. I worked on all these basic functions for the webite and mobile app. All APIs can be found in `server.js` and its documentation was done on SwaggerHub for organization and to make it easier for frontend to determine the input and return values of each API.
+
+## Api Documentation:
+[SwaggerHub](https://app.swaggerhub.com/apis/KEGRIMES02/LargeProject/1.0.0#/)
